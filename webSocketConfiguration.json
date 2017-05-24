@@ -1,0 +1,7 @@
+{
+	"url": "wss://iotmmsi841640trial.hanatrial.ondemand.com/com.sap.iotservices.mms/v1/api/ws/data/1443ca8c-6552-459f-a387-5af1514b4faf",
+  "messageType": "f2030d0eb2dac69aa2d6",
+  "bearerToken": "8a486226c9912b6f11d07215aad3c7e7",
+  "mode": "async-ack",
+  "sequence": "1234"
+}

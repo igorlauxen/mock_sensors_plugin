@@ -1,0 +1,11 @@
+{
+  "messages":  [
+  	{	
+    		"fieldName": "test",
+    		"type":"integer",
+    		"defaultValue" : 0,
+    		"max": 100,
+    		"min": 0
+    	}
+  ]
+}

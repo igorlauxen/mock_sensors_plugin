@@ -1,0 +1,23 @@
+{
+  "name": "gulp-mock-iot",
+  "version": "1.0.0",
+  "description": "Gulp task to mock an IoT sensor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "inquirer": "^1.2.2",
+    "js-base64": "^2.1.9",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1",
+    "ws": "^1.1.1",
+    "yargs": "^6.3.0"
+  }
+}
